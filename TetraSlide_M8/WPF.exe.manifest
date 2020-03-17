@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <assemblyIdentity name="WPF.exe" version="1.0.0.0" processorArchitecture="x86" type="win32" />
+  <file name="TsCOM.dll" asmv2:size="566784">
+    <hash xmlns="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sbSxw3edugN/igfN+k2fiLoXNKEHDE+cugxBNv36fNM=</dsig:DigestValue>
+    </hash>
+    <typelib tlbid="{a2d5f19a-209f-4458-9384-b078c550fca0}" version="1.0" helpdir="" resourceid="0" flags="HASDISKIMAGE" />
+    <comClass clsid="{3ed31c2a-ffa4-45f7-8982-2ea15c2fa6ac}" threadingModel="Free" tlbid="{a2d5f19a-209f-4458-9384-b078c550fca0}" />
+    <comClass clsid="{839f06f0-d412-42f7-9983-d9285fcf28c8}" threadingModel="Free" tlbid="{a2d5f19a-209f-4458-9384-b078c550fca0}" />
+    <comClass clsid="{80bfc225-119f-42bf-96ce-41213b0bede8}" threadingModel="Free" tlbid="{a2d5f19a-209f-4458-9384-b078c550fca0}" />
+    <comClass clsid="{d827cb47-e145-40be-8231-fc1bd5490e6d}" threadingModel="Free" tlbid="{a2d5f19a-209f-4458-9384-b078c550fca0}" />
+    <comClass clsid="{0060f09e-6365-4ad2-bd16-a2cc37e9343f}" threadingModel="Free" tlbid="{a2d5f19a-209f-4458-9384-b078c550fca0}" />
+    <comClass clsid="{f84334b0-7bfd-4f36-8509-9cabbd35ab41}" threadingModel="Free" tlbid="{a2d5f19a-209f-4458-9384-b078c550fca0}" />
+  </file>
+  <comInterfaceExternalProxyStub name="IPlayer" iid="{018886A8-D3F7-4497-ACF2-AF5C6CE0CDF9}" tlbid="{A2D5F19A-209F-4458-9384-B078C550FCA0}" proxyStubClsid32="{00020424-0000-0000-C000-000000000046}" xmlns="urn:schemas-microsoft-com:asm.v1"></comInterfaceExternalProxyStub>
+  <comInterfaceExternalProxyStub name="IPosition" iid="{365A8944-25B4-45B2-B65D-680E05D11D2E}" tlbid="{A2D5F19A-209F-4458-9384-B078C550FCA0}" proxyStubClsid32="{00020424-0000-0000-C000-000000000046}" xmlns="urn:schemas-microsoft-com:asm.v1"></comInterfaceExternalProxyStub>
+  <comInterfaceExternalProxyStub name="ITile" iid="{B2A02345-3072-43CA-BDD0-E9117184B0BE}" tlbid="{A2D5F19A-209F-4458-9384-B078C550FCA0}" proxyStubClsid32="{00020424-0000-0000-C000-000000000046}" xmlns="urn:schemas-microsoft-com:asm.v1"></comInterfaceExternalProxyStub>
+  <comInterfaceExternalProxyStub name="IGameDescriptor" iid="{0DB9F163-CC13-4AAB-B320-FB0A15F4D0E5}" tlbid="{A2D5F19A-209F-4458-9384-B078C550FCA0}" proxyStubClsid32="{00020424-0000-0000-C000-000000000046}" xmlns="urn:schemas-microsoft-com:asm.v1"></comInterfaceExternalProxyStub>
+  <comInterfaceExternalProxyStub name="ITurnCallback" iid="{FEF9704D-75B0-46E5-A320-15ADEC9C869D}" tlbid="{A2D5F19A-209F-4458-9384-B078C550FCA0}" proxyStubClsid32="{00020424-0000-0000-C000-000000000046}" xmlns="urn:schemas-microsoft-com:asm.v1"></comInterfaceExternalProxyStub>
+  <comInterfaceExternalProxyStub name="IGameView" iid="{637C808C-E009-4832-B4D6-1B3EDB6B53FC}" tlbid="{A2D5F19A-209F-4458-9384-B078C550FCA0}" proxyStubClsid32="{00020424-0000-0000-C000-000000000046}" xmlns="urn:schemas-microsoft-com:asm.v1"></comInterfaceExternalProxyStub>
+  <comInterfaceExternalProxyStub name="IEngine" iid="{CCC8E027-77CD-49E3-A1E4-232DA8016A17}" tlbid="{A2D5F19A-209F-4458-9384-B078C550FCA0}" proxyStubClsid32="{00020424-0000-0000-C000-000000000046}" xmlns="urn:schemas-microsoft-com:asm.v1"></comInterfaceExternalProxyStub>
+</assembly>
